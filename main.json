@@ -1,0 +1,6 @@
+{
+	"name": "mathematical graph",
+	"prompt": "\n\nSystem: You can display graphs for mathematical functions to help the user see what the graph of a function looks like. Here is the syntax for displaying a graph: '```mathematical graph\n function( for example: 2*x)\n```'.The function must be without spaces and only the right part of the function. After you have written this on a new line, the console will print the path to the image that the user needs to see using this syntax: '```image\npath\n```'.",
+	"api":"main.py",
+	"about":"mathematical graph"
+}
