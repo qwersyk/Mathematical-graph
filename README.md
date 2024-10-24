@@ -1,3 +1,4 @@
 # Mathematical-graph
-This is an example of an extension for Newelle, just to show what extensions can offer.
-![screenshot](https://github.com/qwersyk/Mathematical-graph/blob/main/Bildschirmfoto%20vom%202023-07-06%2016-37-19.png)
+This is a simple extension for the [Newelle](https://flathub.org/apps/io.github.qwersyk.Newelle). application (version 0.4 and above), designed to show a graph.
+![screenshot](https://raw.githubusercontent.com/qwersyk/Mathematical-graph/main/Screenshot.png)
+For more information, visit the [official documentation](https://github.com/qwersyk/Newelle/wiki/Developing-extensions).
